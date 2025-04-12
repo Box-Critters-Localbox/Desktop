@@ -1,0 +1,7 @@
+node_modules
+accounts.json
+.DS_Store
+/public
+/dist
+Localbox
+Localbox.exe
